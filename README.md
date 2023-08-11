@@ -50,4 +50,6 @@ https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 
 
 
+![Screenshot from 2023-08-11 11-50-28](https://github.com/devotuoma/Mall-Customers-Segmentation/assets/94548340/e8737a25-ae20-4109-854e-a7da1b774fe8)
+
 
