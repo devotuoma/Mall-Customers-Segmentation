@@ -5,3 +5,6 @@ Customer Segmentation is one of the most important applications of unsupervised 
 ![Customers](https://github.com/devotuoma/Mall-Customers-Segmentation/assets/94548340/82b1d968-06e4-4a1f-b44d-6cc8c3daf92a)
 
 What is Customer Segmentation
+
+
+Customer Segmentation is the process of division of the customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits.
