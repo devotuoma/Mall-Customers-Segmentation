@@ -23,21 +23,24 @@ What is K-Means Algorithm
 While using the k-means clustering algorithm, the first step is to indicate the number of clusters (k) that we wish to produce in the final output. The algorithm starts by selecting k objects from the dataset randomly that will serve as the initial centers for our clusters. These selected objects are the cluster means, also known as centroids. Then, the remaining objects have an assignment of the closest centroid. This centroid is defined by the Euclidean Distance present between the object and the cluster mean. We refer to this step as “cluster assignment”. When the assignment is complete, the algorithm proceeds to calculate the new mean value of each cluster present in the data. After the recalculation of the centers, the observations are checked if they are closer to a different cluster. Using the updated cluster mean, the objects undergo reassignment. This goes on repeatedly through several iterations until the cluster assignments stop altering. The clusters that are present in the current iteration are the same as the ones obtained in the previous iteration.
 
 
+
 Dataset
+
+
 The dataset is acquired from Kaggle and the link is given below :
 
 https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 
-. The dataset consists of the following five features of 200 customers:
+ . The dataset consists of the following five features of 200 customers:
 
-. CustomerID: Unique ID assigned to the customer
+ . CustomerID: Unique ID assigned to the customer
 
-. Gender: The gender of the customer
+ . Gender: The gender of the customer
 
-. Age: The age of the customer
+ . Age: The age of the customer
 
-. Annual Income (k$): Annual Income of the customer
+ . Annual Income (k$): Annual Income of the customer
 
-. Spending Score (1-100): A score assigned by the mall based on customer behavior and spending nature.
+ . Spending Score (1-100): A score assigned by the mall based on customer behavior and spending nature.
 
 
