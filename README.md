@@ -41,20 +41,4 @@ https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 
  . Annual Income (k$): Annual Income of the customer
 
- . Spending Score (1-100): A score assigned by the mall based on customer behavior and spending nature.
-
- 
- 
- Steps for implementation
- 
- 
- 1. Import libraries and packages
-    # Importing libraries and reading the data
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from mpl_toolkits.mplot3d import Axes3D
-%matplotlib inline
-
 
