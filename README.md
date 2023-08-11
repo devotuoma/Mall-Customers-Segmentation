@@ -43,4 +43,7 @@ https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 
  . Spending Score (1-100): A score assigned by the mall based on customer behavior and spending nature.
 
+ 
+ Steps for implementation
+
 
