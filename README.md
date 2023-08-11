@@ -40,5 +40,6 @@ https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
  . Age: The age of the customer
 
  . Annual Income (k$): Annual Income of the customer
+ . Spending Score (1-100): A score assigned by the mall based on customer behavior and spending nature.
 
 
